@@ -4,7 +4,7 @@ A simple Lunar Lander game written in pure Javascript. Use the arrow keys to lan
 ![Screenshot](img/screenshot.png)
 
 # Usage
-Just download the files and open [index.html](index.html) in your browser.
+You can play this game [here](https://lunar-lander.cscazorla.es/) or just download the files and open [index.html](index.html) in your browser.
 
 # Features
 * Proper physics models dealing with gravity, acceleration, angular drag, thrust direction, colliders, etc. Everything implemented from scratch.
